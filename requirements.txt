@@ -1,7 +1,7 @@
 adbc-driver-snowflake==1.0.0
-connectorx==0.3.3
 notebook==7.2.1
-polars==0.20.31
+pandas==2.2.2
+polars==1.0.0
 python-dotenv==1.0.1
 snowflake-sqlalchemy==1.5.3
 sqlalchemy==1.4.52
